@@ -1,2 +1,1 @@
-Udacity Intro to Programming Nanodegree. Unit 3: "Code your own quiz", lesson 12.
-The task: to write the code that calculates the number of days between two given dates.
+Udacity Intro to Programming Nanodegree. Unit 3: "Code your own quiz", lesson 12. The task: to write the code that calculates the number of days between two given dates. It should account for leap years and be protected from the wrong inputs, i.e. the second date can't be 'older' than the first one. 
